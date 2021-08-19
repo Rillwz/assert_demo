@@ -1,5 +1,3 @@
-import 'package:assert_demo/assert_demo.dart' as assert_demo;
-
 void main(List<String> arguments) {
   Person p;
 
